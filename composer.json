@@ -1,0 +1,11 @@
+{
+    "require": {
+        "myonlinestore/omnipay-klarna-checkout": "^5.0",
+        "tracy/tracy": "^2.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "KlarnaAnalysis\\": "src/"
+        }
+    }
+}
