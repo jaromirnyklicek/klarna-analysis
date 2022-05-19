@@ -13,7 +13,7 @@ if ($_GET['pay'] ?? false) {
         'amount' => 100,
         'tax_amount' => 20,
         'currency' => 'EUR',
-        'locale' => 'de-AT',
+        'locale' => 'en-AT',
         'purchase_country' => 'AT',
         'merchant_reference1' => rand(1000, 10000), //ourTxId
 
